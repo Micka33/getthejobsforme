@@ -1,0 +1,107 @@
+[10291] 25 Aug 17:15:26.984 # You requested maxclients of 10000 requiring at least 10032 max file descriptors.
+[10291] 25 Aug 17:15:26.985 # Redis can't set maximum open files to 10032 because of OS error: Operation not permitted.
+[10291] 25 Aug 17:15:26.985 # Current maximum open files is 1024. maxclients has been reduced to 4064 to compensate for low ulimit. If you need higher maxclients increase 'ulimit -n'.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 10291
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[10291] 25 Aug 17:15:26.988 # Server started, Redis version 2.8.13
+[10291] 25 Aug 17:15:26.988 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[10291] 25 Aug 17:15:26.988 * The server is now ready to accept connections on port 6379
+[10444] 25 Aug 17:53:57.968 # You requested maxclients of 10000 requiring at least 10032 max file descriptors.
+[10444] 25 Aug 17:53:57.968 # Redis can't set maximum open files to 10032 because of OS error: Operation not permitted.
+[10444] 25 Aug 17:53:57.968 # Current maximum open files is 1024. maxclients has been reduced to 4064 to compensate for low ulimit. If you need higher maxclients increase 'ulimit -n'.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 10444
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[10444] 25 Aug 17:53:57.969 # Server started, Redis version 2.8.13
+[10444] 25 Aug 17:53:57.969 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[10444] 25 Aug 17:53:57.969 * The server is now ready to accept connections on port 6379
+[3387] 26 Aug 14:57:35.719 # You requested maxclients of 10000 requiring at least 10032 max file descriptors.
+[3387] 26 Aug 14:57:35.719 # Redis can't set maximum open files to 10032 because of OS error: Operation not permitted.
+[3387] 26 Aug 14:57:35.719 # Current maximum open files is 1024. maxclients has been reduced to 4064 to compensate for low ulimit. If you need higher maxclients increase 'ulimit -n'.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 3387
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[3387] 26 Aug 14:57:35.724 # Server started, Redis version 2.8.13
+[3387] 26 Aug 14:57:35.725 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[3387] 26 Aug 14:57:35.725 * The server is now ready to accept connections on port 6379
+[3387 | signal handler] (1409071867) Received SIGTERM, scheduling shutdown...
+[3387] 26 Aug 18:51:08.011 # User requested shutdown...
+[3387] 26 Aug 18:51:08.011 * Saving the final RDB snapshot before exiting.
+[3387] 26 Aug 18:51:08.018 * DB saved on disk
+[3387] 26 Aug 18:51:08.018 # Redis is now ready to exit, bye bye...
+[3774] 31 Aug 15:17:35.345 # You requested maxclients of 10000 requiring at least 10032 max file descriptors.
+[3774] 31 Aug 15:17:35.346 # Redis can't set maximum open files to 10032 because of OS error: Operation not permitted.
+[3774] 31 Aug 15:17:35.346 # Current maximum open files is 1024. maxclients has been reduced to 4064 to compensate for low ulimit. If you need higher maxclients increase 'ulimit -n'.
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 3774
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[3774] 31 Aug 15:17:35.348 # Server started, Redis version 2.8.13
+[3774] 31 Aug 15:17:35.349 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[3774] 31 Aug 15:17:35.351 * DB loaded from disk: 0.001 seconds
+[3774] 31 Aug 15:17:35.351 * The server is now ready to accept connections on port 6379
+[3774 | signal handler] (1409505284) Received SIGTERM, scheduling shutdown...
+[3774] 31 Aug 19:14:44.434 # User requested shutdown...
+[3774] 31 Aug 19:14:44.434 * Saving the final RDB snapshot before exiting.
+[3774] 31 Aug 19:14:44.441 * DB saved on disk
+[3774] 31 Aug 19:14:44.441 # Redis is now ready to exit, bye bye...

@@ -1,0 +1,12 @@
+defaults: &defaults
+  urls:
+    - http://localhost:9200/
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults

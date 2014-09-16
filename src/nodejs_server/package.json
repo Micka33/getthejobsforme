@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_server",
+  "version": "1.0.0",
+  "description": "provide the socket.io library and some api's calls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Micka33",
+  "license": "The Artistic License 2.0",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "express": "^4.8.5",
+    "js-yaml": "^3.2.1",
+    "moment": "^2.8.2",
+    "redis": "^0.12.1",
+    "socket.io": "^1.0.6",
+    "underscore": "^1.6.0"
+  }
+}
